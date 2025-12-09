@@ -22,7 +22,7 @@
 <br/>
 
 <!-- 🔹 FOOTER -->
-![](https://capsule-render.vercel.app/api?type=wave&color=0:ffdf7c,100:9cdcff&height=180&section=footer&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=wave&color=0:ff9aa2,100:ffe8b3&height=180&section=footer&animation=fadeIn)
 
 
 
