@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=shark&color=auto&height=220&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=egg&color=auto&height=220&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn)
 
 <br/>
 
