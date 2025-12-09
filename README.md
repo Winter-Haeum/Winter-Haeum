@@ -1,30 +1,29 @@
 ## Hi there 👋
 
-<!-- 🔹 Header -->
 ![](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn)
 
 <br/>
 
 <!-- 🔹 GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WinterHaeum&theme=default)
+![](https://github-readme-streak-stats.herokuapp.com/?user=WinterHaeum&theme=default)
 
 <br/>
 
 <!-- 🔹 Tech Stack -->
-### 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 <br/>
 
 <!-- 🔹 방문자 수 -->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WinterHaeum)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WinterHaeum)
 
 <br/>
 
-<!-- 🔹 Footer -->
 ![](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&animation=fadeIn)
+
 
 
 
