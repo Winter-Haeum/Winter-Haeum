@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=240&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn)
+<!-- 🔹 HEADER -->
+![](https://capsule-render.vercel.app/api?type=wave&color=0:9cdcff,100:ffdf7c&height=240&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn)
 
 <br/>
 
@@ -20,7 +21,9 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=180&section=footer&animation=fadeIn)
+<!-- 🔹 FOOTER -->
+![](https://capsule-render.vercel.app/api?type=wave&color=0:ffdf7c,100:9cdcff&height=180&section=footer&animation=fadeIn)
+
 
 
 
