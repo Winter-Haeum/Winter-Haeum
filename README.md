@@ -1,5 +1,5 @@
 <!-- 🔹 HEADER -->
-![](https://capsule-render.vercel.app/api?type=wave&color=0:fdb7c5,100:fdeccf&height=240&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=wave&color=0:ff9aa2,100:ffe8b3&height=240&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn)
 
 <br/>
 
