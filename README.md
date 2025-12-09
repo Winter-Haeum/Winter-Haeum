@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=240&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn)
 
 <br/>
 
@@ -20,7 +20,8 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=180&section=footer&animation=fadeIn)
+
 
 
 
