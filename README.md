@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn)
 
 <br/>
