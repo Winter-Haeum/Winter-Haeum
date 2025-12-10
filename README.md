@@ -13,11 +13,18 @@
 
 ---
 
+<!-- https://img.shields.io/badge/끈기-d7e8ff?style=flat-square -->
 ## 🌟 Strengths & Interests  
-**성실함 · 끈기 · 책임감 · 꾸준한 성장 · 커뮤니케이션**
+
+<img src="https://img.shields.io/badge/성실함-ffd7d7?style=flat-square"/>  
+<img src="https://img.shields.io/badge/끈기-d7e8ff?style=flat-square"/>  
+<img src="https://img.shields.io/badge/책임감-fff1c7?style=flat-square"/>  
+<img src="https://img.shields.io/badge/꾸준한%20성장-d9ffd9?style=flat-square"/>  
+<img src="https://img.shields.io/badge/커뮤니케이션-e9d7ff?style=flat-square"/>  
 
 조금씩이라도 앞으로 나아가고자 하는 꾸준함을 바탕으로,  
 명확한 커뮤니케이션을 통해 함께 성장하는 흐름을 만드는 것을 좋아합니다.
+
 
 ---
 
