@@ -23,17 +23,16 @@
 
 ## ✨ Tech Stack & Learning
 
-### 💙 지금 다루는 기술  
 <img src="https://img.shields.io/badge/HTML5-ffb3b3?style=flat-square&logo=html5&logoColor=white"/>  
 <img src="https://img.shields.io/badge/CSS3-bcd8ff?style=flat-square&logo=css3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-ffe599?style=flat-square&logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/JavaScript-ffe599?style=flat-square&logo=javascript&logoColor=black"/>
 
-### 🌿 지금 배우는 과정 (Learning)  
 - 반응형 레이아웃  
 - 인터랙션 효과 (hover, transition, animation)  
 - Git & GitHub  
 - 자연스러운 UI 흐름 만들기  
 - 컴포넌트 구조 이해  
+- JavaScript 기초 학습  
 
 ---
 
