@@ -13,27 +13,9 @@
 
 ---
 
-## 🌟 Strengths & Interests
+## 🌟 Strengths & Interests  
 
-<table>
-<tr>
-<td style="background:#f7b5b5; padding:8px 16px; border-radius:6px; font-weight:700; font-size:16px; color:#5a0000;">
-성실함
-</td>
-<td style="background:#bcd5ff; padding:8px 16px; border-radius:6px; font-weight:700; font-size:16px; color:#0a2b66;">
-끈기
-</td>
-<td style="background:#ffe6a8; padding:8px 16px; border-radius:6px; font-weight:700; font-size:16px; color:#594400;">
-책임감
-</td>
-<td style="background:#c9f7d0; padding:8px 16px; border-radius:6px; font-weight:700; font-size:16px; color:#1f5d2d;">
-꾸준한 성장
-</td>
-<td style="background:#e6d1ff; padding:8px 16px; border-radius:6px; font-weight:700; font-size:16px; color:#4a2a75;">
-커뮤니케이션
-</td>
-</tr>
-</table>
+**🩷 성실함  |  💙 끈기  |  💛 책임감  |  💚 꾸준한 성장  |  💜 커뮤니케이션**
 
 조금씩이라도 앞으로 나아가고자 하는 꾸준함을 바탕으로,  
 명확한 커뮤니케이션을 통해 함께 성장하는 흐름을 만드는 것을 좋아합니다.
@@ -42,9 +24,10 @@
 
 ## ✨ Tech Stack & Learning
 
-<img src="https://img.shields.io/badge/HTML5-ffb3b3?style=flat-square&logo=html5&logoColor=white"/> &nbsp; 
-<img src="https://img.shields.io/badge/CSS3-bcd8ff?style=flat-square&logo=css3&logoColor=white"/> &nbsp;  
-<img src="https://img.shields.io/badge/JavaScript-ffe599?style=flat-square&logo=javascript&logoColor=black"/> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-ffb3b3?style=flat-square&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-bcd8ff?style=flat-square&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-ffe599?style=flat-square&logo=javascript&logoColor=black"/>
+
 
 - 반응형 레이아웃  
 - 인터랙션 효과 (hover, transition, animation)  
