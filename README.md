@@ -13,17 +13,35 @@
 
 ---
 
-<!-- https://img.shields.io/badge/끈기-d7e8ff?style=flat-square -->
-## 🌟 Strengths & Interests  
+## 🌟 Strengths & Interests
 
-<img src="https://img.shields.io/badge/성실함-f7aaaa?style=for-the-badge"/> &nbsp;
-<img src="https://img.shields.io/badge/끈기-aecbff?style=for-the-badge"/> &nbsp;
-<img src="https://img.shields.io/badge/책임감-ffe59c?style=for-the-badge"/> &nbsp;
-<img src="https://img.shields.io/badge/꾸준한_성장-a7f3b0?style=for-the-badge"/> &nbsp;
-<img src="https://img.shields.io/badge/커뮤니케이션-d8b7ff?style=for-the-badge"/>  
+<div style="display:flex; gap:8px; flex-wrap:wrap;">
+
+<div style="background:#f7b5b5; padding:8px 16px; border-radius:8px; font-weight:700; font-size:16px; color:#5a0000; box-shadow:0 2px 4px rgba(0,0,0,0.08);">
+성실함
+</div>
+
+<div style="background:#bcd5ff; padding:8px 16px; border-radius:8px; font-weight:700; font-size:16px; color:#0a2b66; box-shadow:0 2px 4px rgba(0,0,0,0.08);">
+끈기
+</div>
+
+<div style="background:#ffe6a8; padding:8px 16px; border-radius:8px; font-weight:700; font-size:16px; color:#594400; box-shadow:0 2px 4px rgba(0,0,0,0.08);">
+책임감
+</div>
+
+<div style="background:#c9f7d0; padding:8px 16px; border-radius:8px; font-weight:700; font-size:16px; color:#1f5d2d; box-shadow:0 2px 4px rgba(0,0,0,0.08);">
+꾸준한 성장
+</div>
+
+<div style="background:#e6d1ff; padding:8px 16px; border-radius:8px; font-weight:700; font-size:16px; color:#4a2a75; box-shadow:0 2px 4px rgba(0,0,0,0.08);">
+커뮤니케이션
+</div>
+
+</div>
 
 조금씩이라도 앞으로 나아가고자 하는 꾸준함을 바탕으로,  
 명확한 커뮤니케이션을 통해 함께 성장하는 흐름을 만드는 것을 좋아합니다.
+
 
 
 
