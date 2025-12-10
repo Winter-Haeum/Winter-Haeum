@@ -1,12 +1,11 @@
 <!-- 🔹 HEADER -->
 ![](https://capsule-render.vercel.app/api?type=wave&color=0:9ed8ff,100:d6efff&height=240&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn)
 
-## 🌿 Hello, I'm WinterHaeum
+## 🌿 About Me
 디자인 감각을 **웹 화면 위에 피어나게** 만드는 사람.  
 작은 디테일이 사용자의 하루를 바꾼다고 믿습니다.
 
-## ❄ About Me  
-프론트엔드 개발을 공부하며  
+현재 프론트엔드 개발을 공부하며  
 **디자인 감각을 실제 웹 화면으로 구현하는 것**에 흥미를 느끼고 있어요. ☺️☺️ 
 하루하루를 기록하고 직접 만들어보며 성장 중입니다.
 
