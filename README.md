@@ -1,8 +1,8 @@
-<!-- 헤더 -->
-![](https://capsule-render.vercel.app/api?type=wave&color=0:9ed8ff,100:d6efff&height=240&section=header&text=Hello☁️%20I'm%20WinterHaeum&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn)
+<!-- Header -->
+![](https://capsule-render.vercel.app/api?type=wave&color=0:9ed8ff,100:d6efff&height=240&section=header&text=Hello%20👋%20I'm%20WinterHaeum%20❄️&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn)
 
-# ❄️ About Me  
-디자인 감각을 **웹 화면 위에 피어나게 하고자 하는 신입 프론트엔드 개발자.**  
+# 🌱 About Me  
+디자인 감각을 **웹 화면 위에 피어나게 하고자 하는 예비 신입 프론트엔드 개발자입니다.**  
 작은 디테일이 사용자 경험을 바꾼다고 믿습니다.
 
 감성적인 UI와 자연스러운 인터랙션을 좋아하며,  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌱 Strengths & Interests  
+## 🌟 Strengths & Interests  
 **성실함 · 끈기 · 책임감 · 꾸준한 성장 · 커뮤니케이션**
 
 조금씩이라도 앞으로 나아가고자 하는 꾸준함을 바탕으로,  
@@ -47,7 +47,7 @@
 
 ## 📬 Contact  
 - Email: **cooolluck247@gmail.com**  
-- GitHub: https://github.com/WinterHaeum  
+- GitHub: https://github.com/WinterHaeum
 
 <!-- Footer -->
 ![](https://capsule-render.vercel.app/api?type=wave&color=0:ffe59b,100:fff0c7&height=200&section=footer&animation=fadeIn)
