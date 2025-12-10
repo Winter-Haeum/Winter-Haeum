@@ -24,10 +24,7 @@
 
 ## ✨ Tech Stack & Learning
 
-<img src="https://img.shields.io/badge/HTML5-ffb3b3?style=flat-square&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-bcd8ff?style=flat-square&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-ffe599?style=flat-square&logo=javascript&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/HTML5-ffb3b3?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-bcd8ff?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ffe599?style=flat-square&logo=javascript&logoColor=black"/>
 
 - 반응형 레이아웃  
 - 인터랙션 효과 (hover, transition, animation)  
@@ -41,13 +38,12 @@
 ## 🎯 Goals  
 - 감성적인 UI를 **코드로 섬세하게 표현하는 프론트엔드 개발자**로 성장하기  
 - 사용자 중심 UI/UX 설계 능력 강화  
-- React / Next.js 학습 후 실제 프로젝트 제작  
 - 꾸준한 기록과 작업으로 성장의 흐름 증명하기  
 
 ---
 
 ## 📬 Contact  
-- Email: **cooolluck247@gmail.com**  
+- Email: **rudnfgkdma13@gmail.com**  
 - GitHub: https://github.com/WinterHaeum
 
 <!-- Footer -->
