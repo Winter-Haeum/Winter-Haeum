@@ -15,35 +15,28 @@
 
 ## 🌟 Strengths & Interests
 
-<div style="display:flex; gap:8px; flex-wrap:wrap;">
-
-<div style="background:#f7b5b5; padding:8px 16px; border-radius:8px; font-weight:700; font-size:16px; color:#5a0000; box-shadow:0 2px 4px rgba(0,0,0,0.08);">
+<table>
+<tr>
+<td style="background:#f7b5b5; padding:8px 16px; border-radius:6px; font-weight:700; font-size:16px; color:#5a0000;">
 성실함
-</div>
-
-<div style="background:#bcd5ff; padding:8px 16px; border-radius:8px; font-weight:700; font-size:16px; color:#0a2b66; box-shadow:0 2px 4px rgba(0,0,0,0.08);">
+</td>
+<td style="background:#bcd5ff; padding:8px 16px; border-radius:6px; font-weight:700; font-size:16px; color:#0a2b66;">
 끈기
-</div>
-
-<div style="background:#ffe6a8; padding:8px 16px; border-radius:8px; font-weight:700; font-size:16px; color:#594400; box-shadow:0 2px 4px rgba(0,0,0,0.08);">
+</td>
+<td style="background:#ffe6a8; padding:8px 16px; border-radius:6px; font-weight:700; font-size:16px; color:#594400;">
 책임감
-</div>
-
-<div style="background:#c9f7d0; padding:8px 16px; border-radius:8px; font-weight:700; font-size:16px; color:#1f5d2d; box-shadow:0 2px 4px rgba(0,0,0,0.08);">
+</td>
+<td style="background:#c9f7d0; padding:8px 16px; border-radius:6px; font-weight:700; font-size:16px; color:#1f5d2d;">
 꾸준한 성장
-</div>
-
-<div style="background:#e6d1ff; padding:8px 16px; border-radius:8px; font-weight:700; font-size:16px; color:#4a2a75; box-shadow:0 2px 4px rgba(0,0,0,0.08);">
+</td>
+<td style="background:#e6d1ff; padding:8px 16px; border-radius:6px; font-weight:700; font-size:16px; color:#4a2a75;">
 커뮤니케이션
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 조금씩이라도 앞으로 나아가고자 하는 꾸준함을 바탕으로,  
 명확한 커뮤니케이션을 통해 함께 성장하는 흐름을 만드는 것을 좋아합니다.
-
-
-
 
 ---
 
