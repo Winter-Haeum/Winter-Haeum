@@ -1,7 +1,7 @@
-<!-- 🔹 HEADER -->
-![](https://capsule-render.vercel.app/api?type=wave&color=0:9ed8ff,100:d6efff&height=240&section=header&text=Hello👋%20I'm%20WinterHaeum❄&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn)
+<!-- 헤더 -->
+![](https://capsule-render.vercel.app/api?type=wave&color=0:9ed8ff,100:d6efff&height=240&section=header&text=Hello☁️%20I'm%20WinterHaeum&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn)
 
-# 🌿 About Me  
+# ❄️ About Me  
 디자인 감각을 **웹 화면 위에 피어나게 하고자 하는 신입 프론트엔드 개발자.**  
 작은 디테일이 사용자 경험을 바꾼다고 믿습니다.
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠 Tech Stack & Learning
+## ✨ Tech Stack & Learning
 
 ### 💙 지금 다루는 기술  
 <img src="https://img.shields.io/badge/HTML5-ffb3b3?style=flat-square&logo=html5&logoColor=white"/>  
@@ -49,27 +49,5 @@
 - Email: **cooolluck247@gmail.com**  
 - GitHub: https://github.com/WinterHaeum  
 
-
-<!-- 🔹 방문자 수 -->
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WinterHaeum)
-
-<!-- 🔹 FOOTER -->
-![](https://capsule-render.vercel.app/api?type=wave&color=0:ffe59b,100:fff0c7&height=180&section=footer&animation=fadeIn)
-
-
-
-
-<!--
-**Winter-Haeum/Winter-Haeum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Footer -->
+![](https://capsule-render.vercel.app/api?type=wave&color=0:ffe59b,100:fff0c7&height=200&section=footer&animation=fadeIn)
