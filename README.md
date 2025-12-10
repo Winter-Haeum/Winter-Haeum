@@ -24,7 +24,7 @@
 
 ## ✨ Tech Stack & Learning
 
-<img src="https://img.shields.io/badge/HTML5-ffb3b3?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-bcd8ff?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ffe599?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-ffb3b3?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-bcd8ff?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ffe599?style=flat-square&logo=javascript&logoColor=black"/>
 
 - 반응형 레이아웃  
 - 인터랙션 효과 (hover, transition, animation)  
